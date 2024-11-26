@@ -1,1 +1,1 @@
-O código fonte do projeto pode ser acessado para fazer alterações e publicações via: https://replit.com/join/ydfygegayu-jacanafsilva
+Para Verificação e Validação de Testes, acesse: https://replit.com/join/ydfygegayu-jacanafsilva
